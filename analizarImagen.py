@@ -6,9 +6,9 @@ from datetime import datetime
 # Configuración de la conexión a la base de datos
 db_config = {
     "host": "mattprofe.com.ar",
-    "user": "6916",  # Reemplaza con tu usuario de MySQL
-    "password": "leon.carpe.control",  # Reemplaza con tu contraseña de MySQL
-    "database": "6916"  # Reemplaza con tu base de datos
+    "user": "admin_berryCam",  # Reemplaza con tu usuario de MySQL
+    "password": "teamordido",  # Reemplaza con tu contraseña de MySQL
+    "database": "berryCam"  # Reemplaza con tu base de datos
 }
 
 # Intentar conectarse a la base de datos
